@@ -1,1 +1,1 @@
-# Mphil_High_performance_SoC
+# Mphil_High_performance_SoC with Gemmini Accelerator
